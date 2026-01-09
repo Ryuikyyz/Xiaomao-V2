@@ -79,14 +79,14 @@ npm start
 Untuk menjaga bot tetap online 24/7, gunakan layanan berikut:
 * VPS (Ubuntu/Debian): Rekomendasi utama (Gunakan pm2 atau screen).
 * Panel Pterodactyl: Sangat mudah digunakan untuk manajemen bot.
-* Termux: Bisa digunakan di Android (Gunakan tsu agar bot tidak mati saat HP standby).
+* [Termux](https://f-droid.org/repo/com.termux_1022.apk): Bisa digunakan di Android (Gunakan tsu agar bot tidak mati saat HP standby).
 
 ---
 
 ## 👨‍💻 Kontributor
 
-* ikyStarboy - GitHub
-* Gemini AI - Assistant Developer
+* [ikyStarboy](https://github.com/ikyStarboy) - GitHub
+* [Gemini Ai](gemini.google.com) - Assistant Developer
 
 ---
 
